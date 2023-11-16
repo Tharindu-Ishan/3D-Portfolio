@@ -46,15 +46,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Software Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Front End Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Back End Developer",
       icon: creator,
     },
   ];
@@ -77,12 +77,16 @@ import {
       icon: typescript,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+      name: "docker",
+      icon: docker,
     },
     {
       name: "Redux Toolkit",
       icon: redux,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
     },
     {
       name: "Tailwind CSS",
@@ -107,10 +111,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
@@ -173,26 +173,27 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      name: "Mr.Prasad Waduge",
+      designation: "CEO",
+      company: "IJSE",
+      
+      image: "https://dulanga.com/assets/img/Guys/Prasad.png",
     },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      name: "D.M.Ranjith Suranga",
+      designation: "Senior Lecturer",
+      company: "IJSE",
+      image: "https://avatars.githubusercontent.com/u/19379846?v=4",
     },
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      name: "Dr.Saliya Jayasekara",
+      designation: "Senior Lecturer",
+      company: "University of Moratuwa",
+      image: "https://asiacleanenergyforum.adb.org/wp-content/uploads/2023/06/Saliya.jpeg",
     },
   ];
   

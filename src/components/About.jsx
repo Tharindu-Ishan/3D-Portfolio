@@ -44,13 +44,9 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] max-w-5xl leading-[30px] text-justify'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am a committed graduate Engineer from the University of Moratuwa. A determined individual with a passion for exploring and learning new aspects of the Software industry.Looking forward to opportunities in the IT field to build up my career as a full stack Software Engineer. As a quick learner, team player, and technology enthusiast, I am passionate about using technology to solve real-world problems. I am always eager to work with like-minded professionals who share my commitment to excellence and my passion for innovation.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
