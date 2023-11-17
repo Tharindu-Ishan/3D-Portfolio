@@ -199,67 +199,151 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Smart POS System",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "javaFX",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "mySQL",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "jasperReport",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
-      name: "Job IT",
+      name: "Chat Application",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "css",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Java",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "sceneBuilder",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
-      name: "Trip Guide",
+      name: "Media Player",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "css",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "java",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "javaFX",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
+    {
+      name: "Text Editor",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "css",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "java",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javaFX",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
+    {
+      name: "Google Website Clone",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "html5",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css3",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javaFX",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
+    {
+      name: "NDB Bank Website Clone",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "html5",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css3",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javaFX",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
+    {
+      name: "Mini Game",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "html5",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css3",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javaScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/Tharindu-Ishan",
     },
   ];
   

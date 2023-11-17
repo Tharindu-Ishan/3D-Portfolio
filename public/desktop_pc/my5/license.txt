@@ -1,0 +1,11 @@
+Model Information:
+* title:	gaming setup
+* source:	https://sketchfab.com/3d-models/gaming-setup-c3a1fe389b254d119ff3977a17ef28ea
+* author:	robinsonsteven419 (https://sketchfab.com/robinsonsteven419)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gaming setup" (https://sketchfab.com/3d-models/gaming-setup-c3a1fe389b254d119ff3977a17ef28ea) by robinsonsteven419 (https://sketchfab.com/robinsonsteven419) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
