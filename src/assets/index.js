@@ -30,6 +30,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import pos from "../assets/project/pos-system.png";
+import chat from "../assets/project/chat-app.png";
+import player from "../assets/project/media-player.png";
+import editor from "../assets/project/text-editor.png";
+import google from "../assets/project/google.png";
+import ndb from "../assets/project/ndb-bank.png";
+
+import ijse from "../assets/company/ijse.png";
+import uom from "../assets/company/uom.png";
+
+
+
 export {
   logo,
   backend,
@@ -59,4 +71,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  pos,
+  chat,
+  player,
+  editor,
+  google,
+  ndb,
+  ijse,
+  uom,
 };

@@ -23,6 +23,14 @@ import {
     jobit,
     tripguide,
     threejs,
+    pos,
+    chat,
+    player,
+    editor,
+    google,
+    ndb,
+    ijse,
+    uom,
   } from "../assets";
   
   export const navLinks = [
@@ -116,55 +124,27 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Trainee Software Engineer",
+      company_name: "IJSE-Institute of Software Engineering.(Panadura)",
+      icon: ijse,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full Stack Developer",
-      company_name: "IJSE -Institute of Software Engineering",
-      icon: meta,
-      iconBg: "#E6DEDD",
       date: "July 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Practical application of knowledge is crucial in software engineering. Training programs often include hands-on projects to allow students to apply their skills and gain real-world experience. This might involve developing software applications individually or in teams.",
+        "Training programs usually involve classroom or online sessions led by experienced instructors. These sessions can include lectures, discussions, and demonstrations to explain theoretical concepts and provide practical insights.",
+        "To reinforce learning, students may be given practical exercises and assignments. These tasks help them practice what they've learned and identify areas that may need further attention.",
+        "Collaboration is a key aspect of software engineering. Training programs often encourage teamwork through group projects, fostering communication and collaboration skills among students.",
+        "Institutes like IJSE typically aim to provide industry-relevant education. The curriculum may be updated to align with current industry trends and technologies, ensuring that students are well-prepared for the workforce.",
+      ],
+    },
+    {
+      title: "Trainee Full Stack Developer Program",
+      company_name: "University of Moratuwa",
+      icon: uom,
+      iconBg: "#E6DEDD",
+      date: "Jan 2023 - June 2023",
+      points: [
+        "I have successfully completed the Web Design for Beginners course of the Trainee - Full Stack Developer program conducted by the Department of Computer Science & Engineering, Faculty of Engineering, University of Moratuwa.I am especially thankful to the academic staff of the University of Moratuwa, DP Education, and IT professionals for providing a great opportunity.",
       ],
     },
   ];
@@ -216,13 +196,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: pos,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "Chat Application",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Made Chat application during the traning session to enhance the knowledge of client server architechture.",
       tags: [
         {
           name: "css",
@@ -237,13 +217,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: chat,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "Media Player",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Made simple media player to play music. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
       tags: [
         {
           name: "css",
@@ -258,13 +238,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: player,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "Text Editor",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "I have developed the personal text editor as an individual project during my training session. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
       tags: [
         {
           name: "css",
@@ -279,13 +259,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: editor,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "Google Website Clone",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The Google Design Clone project is a static website built with HTML and CSS. It closely resembles the look and feel of the Google search page, including the logo, search bar, buttons, and overall styling.",
       tags: [
         {
           name: "html5",
@@ -295,18 +275,15 @@ import {
           name: "css3",
           color: "green-text-gradient",
         },
-        {
-          name: "javaFX",
-          color: "pink-text-gradient",
-        },
+        
       ],
-      image: tripguide,
+      image: google,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "NDB Bank Website Clone",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The NDB Bank Design Clone project is a static website built with HTML and CSS. It closely resembles the look and feel of the NDB Bank search page, including the logo, search bar, buttons, and overall styling.",
       tags: [
         {
           name: "html5",
@@ -316,18 +293,15 @@ import {
           name: "css3",
           color: "green-text-gradient",
         },
-        {
-          name: "javaFX",
-          color: "pink-text-gradient",
-        },
+        
       ],
-      image: tripguide,
+      image: ndb,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
     {
       name: "Mini Game",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The purpose ofthis project was to learn JavaScript and learn about Event handling using keyboard keys.",
       tags: [
         {
           name: "html5",
