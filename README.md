@@ -1,6 +1,3 @@
 # 3D Portfilo
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot from 2023-11-18 21-37-29](https://github.com/Tharindu-Ishan/3D-portfolio/assets/140793481/9a7fca1a-350e-49bf-b9c7-9a3643c6f98e)
