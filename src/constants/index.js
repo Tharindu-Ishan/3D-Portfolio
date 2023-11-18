@@ -29,6 +29,7 @@ import {
     editor,
     google,
     ndb,
+    game,
     ijse,
     uom,
   } from "../assets";
@@ -152,7 +153,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Senior Lecturer Institute of Software Engineering. No.223A 1/2, Galle Road, Panadura. Tel:+94772252985 Email:prasad@ijse.lk",
       name: "Mr.Prasad Waduge",
       designation: "CEO",
       company: "IJSE",
@@ -161,7 +162,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "Senior Lecturer Institute of Software Engineering.",
       name: "D.M.Ranjith Suranga",
       designation: "Senior Lecturer",
       company: "IJSE",
@@ -169,7 +170,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "Final Year Project Supervisor. Tel:+94112650301 Email:saliya.jg@gmail.com",
       name: "Dr.Saliya Jayasekara",
       designation: "Senior Lecturer",
       company: "University of Moratuwa",
@@ -199,27 +200,27 @@ import {
       image: pos,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
-    {
-      name: "Chat Application",
-      description:
-        "Made Chat application during the traning session to enhance the knowledge of client server architechture.",
-      tags: [
-        {
-          name: "css",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Java",
-          color: "green-text-gradient",
-        },
-        {
-          name: "sceneBuilder",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: chat,
-      source_code_link: "https://github.com/Tharindu-Ishan",
-    },
+    // {
+    //   name: "Chat Application",
+    //   description:
+    //     "Made Chat application during the traning session to enhance the knowledge of client server architechture.",
+    //   tags: [
+    //     {
+    //       name: "css",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Java",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "sceneBuilder",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: chat,
+    //   source_code_link: "https://github.com/Tharindu-Ishan",
+    // },
     {
       name: "Media Player",
       description:
@@ -241,27 +242,27 @@ import {
       image: player,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
-    {
-      name: "Text Editor",
-      description:
-        "I have developed the personal text editor as an individual project during my training session. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
-      tags: [
-        {
-          name: "css",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "java",
-          color: "green-text-gradient",
-        },
-        {
-          name: "javaFX",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: editor,
-      source_code_link: "https://github.com/Tharindu-Ishan",
-    },
+    // {
+    //   name: "Text Editor",
+    //   description:
+    //     "I have developed the personal text editor as an individual project during my training session. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
+    //   tags: [
+    //     {
+    //       name: "css",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "java",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "javaFX",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: editor,
+    //   source_code_link: "https://github.com/Tharindu-Ishan",
+    // },
     {
       name: "Google Website Clone",
       description:
@@ -316,7 +317,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: game,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
   ];

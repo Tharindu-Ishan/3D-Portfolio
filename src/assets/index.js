@@ -36,6 +36,7 @@ import player from "../assets/project/media-player.png";
 import editor from "../assets/project/text-editor.png";
 import google from "../assets/project/google.png";
 import ndb from "../assets/project/ndb-bank.png";
+import game from "../assets/project/mini-game.png"
 
 import ijse from "../assets/company/ijse.png";
 import uom from "../assets/company/uom.png";
@@ -77,6 +78,7 @@ export {
   editor,
   google,
   ndb,
+  game,
   ijse,
   uom,
 };
