@@ -200,27 +200,27 @@ import {
       image: pos,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
-    // {
-    //   name: "Chat Application",
-    //   description:
-    //     "Made Chat application during the traning session to enhance the knowledge of client server architechture.",
-    //   tags: [
-    //     {
-    //       name: "css",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "Java",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "sceneBuilder",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: chat,
-    //   source_code_link: "https://github.com/Tharindu-Ishan",
-    // },
+    {
+      name: "Chat Application",
+      description:
+        "Made Chat application during the traning session to enhance the knowledge of client server architechture.",
+      tags: [
+        {
+          name: "css",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Java",
+          color: "green-text-gradient",
+        },
+        {
+          name: "sceneBuilder",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: chat,
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
     {
       name: "Media Player",
       description:
@@ -242,27 +242,27 @@ import {
       image: player,
       source_code_link: "https://github.com/Tharindu-Ishan",
     },
-    // {
-    //   name: "Text Editor",
-    //   description:
-    //     "I have developed the personal text editor as an individual project during my training session. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
-    //   tags: [
-    //     {
-    //       name: "css",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "java",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "javaFX",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: editor,
-    //   source_code_link: "https://github.com/Tharindu-Ishan",
-    // },
+    {
+      name: "Text Editor",
+      description:
+        "I have developed the personal text editor as an individual project during my training session. All the functionalities have been implemented as it is and the appearance is implemented according to my desires.",
+      tags: [
+        {
+          name: "css",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "java",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javaFX",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: editor,
+      source_code_link: "https://github.com/Tharindu-Ishan",
+    },
     {
       name: "Google Website Clone",
       description:
